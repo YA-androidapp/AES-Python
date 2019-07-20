@@ -1,3 +1,10 @@
+*.enc
+*.jpg
+*.jpeg
+*.mp3
+*.png
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
